@@ -1,0 +1,1 @@
+FLAG{dir_traversal_is_dangerous}
